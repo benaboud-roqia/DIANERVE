@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429282732755",
+    "project_id": "dianerve-ad1fa",
+    "storage_bucket": "dianerve-ad1fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429282732755:android:83e19e02c4849081830226",
+        "android_client_info": {
+          "package_name": "com.example.dianerve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1JR13HFlURmgGDAs95D4L5dFCmCJPoLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
